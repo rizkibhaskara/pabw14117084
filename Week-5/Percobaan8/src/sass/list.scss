@@ -1,6 +1,0 @@
-$colors : #ff0000 #ffff00  #0000ff #008080 #ffa500;
-    @each $colors in $colors {
-    .bg-#{ $colors } {
-    background : $colors ;
-}
-}

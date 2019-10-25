@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAMA,IAAK;EALD,iBAAiB,EAAG,aAAU;EAC9B,aAAa,EAAG,aAAU;EAC1B,SAAS,EAAG,aAAU",
-"sources": ["../sass/mixins.scss"],
-"names": [],
-"file": "mixins.css"
-}

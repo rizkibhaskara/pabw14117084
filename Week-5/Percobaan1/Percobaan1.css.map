@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,MAAO;EACP,MAAM,EAAG,eAAe;EACxB,UAAU,EAAG,MAAM;EACnB,OAAO,EAAG,IAAI;EACd,WAAW,EAAG,IAAI;EAClB,cAAQ;IACR,SAAS,EAAG,IAAI;IAChB,KAAK,EAAG,kBAAuB",
-"sources": ["Percobaan1.scss"],
-"names": [],
-"file": "Percobaan1.css"
-}
